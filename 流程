@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T07:00:42.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="6iEy7iOOKjUAnka0JPIu" version="21.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-03T07:12:12.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="qBa9Uxd8EU17zRv0iK73" version="21.2.6" type="github" pages="3">
   <diagram id="D9DXtdFFWU5NufEPFYH3" name="第 1 页">
     <mxGraphModel dx="993" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,6 +221,72 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Aq861v1Hm2HsRb___EOx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-5" target="Aq861v1Hm2HsRb___EOx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-5" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-6" target="Aq861v1Hm2HsRb___EOx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-6" target="Aq861v1Hm2HsRb___EOx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;π/2移相&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-7" target="Aq861v1Hm2HsRb___EOx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-7" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="240" />
+              <mxPoint x="270" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;载波提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-10" target="Aq861v1Hm2HsRb___EOx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;低通滤波器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;抽样判决器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-12" target="Aq861v1Hm2HsRb___EOx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-12" target="Aq861v1Hm2HsRb___EOx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;定时提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;并/串转换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq861v1Hm2HsRb___EOx-15" target="Aq861v1Hm2HsRb___EOx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;低通滤波器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;抽样判决器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq861v1Hm2HsRb___EOx-28" value="cos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="168" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
