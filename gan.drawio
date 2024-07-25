@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T09:30:48.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OBs2C89I8iqb3I4STCIJ" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-25T09:33:10.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2N15E3RvSntL9VV1pHKG" version="24.6.4" type="github" pages="7">
   <diagram name="第 1 页" id="B17giE9bdFfUlBq3_h-e">
     <mxGraphModel dx="1896" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -430,6 +430,12 @@
         </mxCell>
         <mxCell id="mcflJZc9P_xp3aRi11G6-15" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;$$x(n)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="505.12" y="280" width="89.8" height="55.15" as="geometry" />
+        </mxCell>
+        <mxCell id="0iP-8tQ4Wc2_0pIByYW1-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;GAN Training&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="255" width="347.61" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0iP-8tQ4Wc2_0pIByYW1-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;GAN-Defense&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="550" width="135" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
